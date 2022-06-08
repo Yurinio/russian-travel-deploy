@@ -1,0 +1,18 @@
+.places__list {
+    display: grid;
+    gap: 80px 0;
+    margin: 92px auto 0 auto;
+    padding: 0;
+}
+@media (max-width: 768px) {
+.places__list {
+    gap: 73px 0;
+    margin: 88px auto 0 auto;
+}
+}
+@media (max-width: 320px) {
+.places__list {
+    gap: 50px 0;
+    margin: 64px auto 0 auto;
+}
+}

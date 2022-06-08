@@ -1,0 +1,5 @@
+.cover__card {
+    position: absolute;
+    align-self: center;
+    z-index: 4;
+}
